@@ -113,7 +113,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 **Elinaldo Nascimento**
 - GitHub: [@elinaldo-nasc](https://github.com/elinaldo-nasc)
-- Email: elinaldo.oliveira@outlook.com
+- Email: 
 
 ## 🤝 Contribuições
 
@@ -141,3 +141,4 @@ Se encontrar algum bug, por favor abra uma [issue](https://github.com/elinaldo-n
 - Passos para reproduzir
 - Screenshots (se aplicável)
 - Informações do navegador/sistema
+
