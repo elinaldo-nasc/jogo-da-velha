@@ -1,9 +1,9 @@
 # 🎮 Jogo da Velha
 
-[![PHP](https://img.shields.io/badge/PHP-7.4+-blue.svg)](https://php.net)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/PHP-7.4+-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 Um jogo da velha completo e elegante desenvolvido com PHP, HTML, CSS e JavaScript. Interface moderna com tema dark, IA inteligente e responsividade total.
 
@@ -141,4 +141,5 @@ Se encontrar algum bug, por favor abra uma [issue](https://github.com/elinaldo-n
 - Passos para reproduzir
 - Screenshots (se aplicável)
 - Informações do navegador/sistema
+
 
